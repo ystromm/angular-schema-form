@@ -59,18 +59,30 @@
 
 
     <dependencies>
-        <!--
-        <script type="text/javascript" src="/bower_components/jquery/jquery.js"></script>
-    <script type="text/javascript" src="/bower_components/jquery-ui/ui/jquery-ui.js"></script>
-    <link rel="stylesheet" href="/bower_components/jquery-ui/themes/smoothness/jquery-ui.css">
-    -->
-        <!--
-        "angular": ">=1.3.0-rc.1"
-        -->
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>angularjs</artifactId>
-            <version>1.3.0-rc.4</version>
+            <version>1.3.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>angular-sanitize</artifactId>
+            <version>1.3.0-beta.18</version>
+        </dependency>
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>tv4</artifactId>
+            <version>1.0.17</version>
+        </dependency>
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>objectpath</artifactId>
+            <version>1.0.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>bootstrap</artifactId>
+            <version>3.3.0</version>
         </dependency>
     </dependencies>
 
