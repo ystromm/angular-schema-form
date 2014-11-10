@@ -1,4 +1,4 @@
-angular-schema-form
-===================
+WebJar of Angular Schema Form
+=============================
 
-Webjar for angular-schema-form.
+WebJar of Textalk's [Angular Schema Form](https://github.com/Textalk/angular-schema-form) directives.
